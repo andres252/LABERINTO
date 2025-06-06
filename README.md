@@ -1,1 +1,1 @@
-# LABERINTO
+# Modulo-5-leccion-02
